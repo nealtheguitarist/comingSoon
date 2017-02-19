@@ -1,0 +1,26 @@
+@import url('https://fonts.googleapis.com/css?family=Black+Ops+One');
+@import url('https://fonts.googleapis.com/css?family=BioRhyme');
+body {
+  background: #000;
+  font-family: 'Black Ops One', cursive;
+  font-size: 5em;
+  text-transform: lowercase;
+}
+
+.almost {
+  text-transform: uppercase;
+  font-family: 'BioRhyme', serif;
+  font-size: .2em;
+}
+
+div {
+   fill: url(#waveform);
+   width:　800px;
+   height: 100px;
+}
+
+svg {
+  margin: 0% auto;
+  display: block;
+}
+
