@@ -14,9 +14,10 @@ body {
 }
 
 div {
-   fill: url(#waveform);
-   width:　800px;
-   height: 100px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  fill: url(#waveform);  
 }
 
 svg {
